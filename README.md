@@ -17,7 +17,9 @@
 ## Usage
 To install, use ```make```. 
 ./server.sh will start the server and ./client.sh <nickname> will start the client.
-We assume that the ip to be connected can be found from eth0.
+We assume that the ip to be connected can be found from eth0. 
+  
+## Start manually
 
 
 **Start server**
